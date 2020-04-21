@@ -9,6 +9,6 @@ make run
 ```
 
 ## Switch Plugins
-Download appropriate terraform provider from: https://releases.hashicorp.com
-Unzip file and move binary into base of repository
-Update the `Makefile` `PROVIDER_PLUGIN` value with binary name
+- Download appropriate terraform provider from: https://releases.hashicorp.com
+- Unzip file and move binary into base of repository
+- Update the `Makefile` `PROVIDER_PLUGIN` value with binary name
